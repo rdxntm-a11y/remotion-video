@@ -9,11 +9,13 @@ jobs:
         with:
           node-version: 20
       - name: Install dependencies
+        working-directory: ./video
         run: npm install
       - name: Render video
-        run: npx remotion render video/src/index.tsx Main out/video.mp4
+        working-directory: ./video
+        run: npx remotion render src/index.tsx MoustacheProof out/video.mp4
       - name: Upload video
         uses: actions/upload-artifact@v4
         with:
           name: rendered-video
-          path: out/video.mp4
+          path: video/out/video.mp4
