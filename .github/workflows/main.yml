@@ -13,7 +13,7 @@ jobs:
         run: npm install
       - name: Render video
         working-directory: ./video
-        run: npx remotion render src/index.tsx MoustacheProof out/video.mp4
+        run: npx remotion render src/index.ts MoustacheProof out/video.mp4
       - name: Upload video
         uses: actions/upload-artifact@v4
         with:
