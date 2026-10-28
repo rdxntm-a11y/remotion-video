@@ -1,0 +1,270 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Base,Noto Sans,58,&H00E6E6E6,&H00E6E6E6,&H00101010,&HAA000000,0,0,0,0,100,100,0,0,1,3,2,5,80,80,0,1
+Style: Highlight,Noto Sans,58,&H00D7FF,&H00D7FF,&H00101010,&HAA000000,0,0,0,0,100,100,0,0,1,3,2,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.14,0:00:23.46,Base,,0,0,0,,{\an5\pos(960,830)}Mile to tu kabhi nahi, meri hasrat kyun bhadka
+Dialogue: 1,0:00:00.14,0:00:07.04,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}Mile{\c&H00E6E6E6&} to tu kabhi nahi, meri hasrat kyun bhadka
+Dialogue: 1,0:00:07.04,0:00:10.57,Highlight,,0,0,0,,{\an5\pos(960,830)}Mile {\c&H00D7FF&}to{\c&H00E6E6E6&} tu kabhi nahi, meri hasrat kyun bhadka
+Dialogue: 1,0:00:10.57,0:00:15.88,Highlight,,0,0,0,,{\an5\pos(960,830)}Mile to {\c&H00D7FF&}tu{\c&H00E6E6E6&} kabhi nahi, meri hasrat kyun bhadka
+Dialogue: 1,0:00:15.89,0:00:17.57,Highlight,,0,0,0,,{\an5\pos(960,830)}Mile to tu {\c&H00D7FF&}kabhi{\c&H00E6E6E6&} nahi, meri hasrat kyun bhadka
+Dialogue: 1,0:00:17.57,0:00:19.64,Highlight,,0,0,0,,{\an5\pos(960,830)}Mile to tu kabhi {\c&H00D7FF&}nahi,{\c&H00E6E6E6&} meri hasrat kyun bhadka
+Dialogue: 1,0:00:20.00,0:00:20.62,Highlight,,0,0,0,,{\an5\pos(960,830)}Mile to tu kabhi nahi, {\c&H00D7FF&}meri{\c&H00E6E6E6&} hasrat kyun bhadka
+Dialogue: 1,0:00:20.62,0:00:21.38,Highlight,,0,0,0,,{\an5\pos(960,830)}Mile to tu kabhi nahi, meri {\c&H00D7FF&}hasrat{\c&H00E6E6E6&} kyun bhadka
+Dialogue: 1,0:00:21.38,0:00:22.33,Highlight,,0,0,0,,{\an5\pos(960,830)}Mile to tu kabhi nahi, meri hasrat {\c&H00D7FF&}kyun{\c&H00E6E6E6&} bhadka
+Dialogue: 1,0:00:22.33,0:00:23.46,Highlight,,0,0,0,,{\an5\pos(960,830)}Mile to tu kabhi nahi, meri hasrat kyun {\c&H00D7FF&}bhadka{\c&H00E6E6E6&}
+Dialogue: 0,0:00:23.46,0:00:37.08,Base,,0,0,0,,{\an5\pos(960,830)}bewaja ke tum bina jiye agar hua, kaise na ye jeena
+Dialogue: 1,0:00:23.46,0:00:24.80,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}bewaja{\c&H00E6E6E6&} ke tum bina jiye agar hua, kaise na ye jeena
+Dialogue: 1,0:00:24.94,0:00:26.02,Highlight,,0,0,0,,{\an5\pos(960,830)}bewaja {\c&H00D7FF&}ke{\c&H00E6E6E6&} tum bina jiye agar hua, kaise na ye jeena
+Dialogue: 1,0:00:26.02,0:00:27.83,Highlight,,0,0,0,,{\an5\pos(960,830)}bewaja ke {\c&H00D7FF&}tum{\c&H00E6E6E6&} bina jiye agar hua, kaise na ye jeena
+Dialogue: 1,0:00:27.83,0:00:30.30,Highlight,,0,0,0,,{\an5\pos(960,830)}bewaja ke tum {\c&H00D7FF&}bina{\c&H00E6E6E6&} jiye agar hua, kaise na ye jeena
+Dialogue: 1,0:00:30.30,0:00:31.77,Highlight,,0,0,0,,{\an5\pos(960,830)}bewaja ke tum bina {\c&H00D7FF&}jiye{\c&H00E6E6E6&} agar hua, kaise na ye jeena
+Dialogue: 1,0:00:31.77,0:00:33.30,Highlight,,0,0,0,,{\an5\pos(960,830)}bewaja ke tum bina jiye {\c&H00D7FF&}agar{\c&H00E6E6E6&} hua, kaise na ye jeena
+Dialogue: 1,0:00:33.30,0:00:34.48,Highlight,,0,0,0,,{\an5\pos(960,830)}bewaja ke tum bina jiye agar {\c&H00D7FF&}hua,{\c&H00E6E6E6&} kaise na ye jeena
+Dialogue: 1,0:00:34.48,0:00:35.18,Highlight,,0,0,0,,{\an5\pos(960,830)}bewaja ke tum bina jiye agar hua, {\c&H00D7FF&}kaise{\c&H00E6E6E6&} na ye jeena
+Dialogue: 1,0:00:35.18,0:00:35.76,Highlight,,0,0,0,,{\an5\pos(960,830)}bewaja ke tum bina jiye agar hua, kaise {\c&H00D7FF&}na{\c&H00E6E6E6&} ye jeena
+Dialogue: 1,0:00:35.76,0:00:36.08,Highlight,,0,0,0,,{\an5\pos(960,830)}bewaja ke tum bina jiye agar hua, kaise na {\c&H00D7FF&}ye{\c&H00E6E6E6&} jeena
+Dialogue: 1,0:00:36.08,0:00:37.08,Highlight,,0,0,0,,{\an5\pos(960,830)}bewaja ke tum bina jiye agar hua, kaise na ye {\c&H00D7FF&}jeena{\c&H00E6E6E6&}
+Dialogue: 0,0:00:37.08,0:00:51.70,Base,,0,0,0,,{\an5\pos(960,830)}raaga dariya mere dil ka, yeh behta na
+Dialogue: 1,0:00:37.08,0:00:38.42,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}raaga{\c&H00E6E6E6&} dariya mere dil ka, yeh behta na
+Dialogue: 1,0:00:38.56,0:00:41.42,Highlight,,0,0,0,,{\an5\pos(960,830)}raaga {\c&H00D7FF&}dariya{\c&H00E6E6E6&} mere dil ka, yeh behta na
+Dialogue: 1,0:00:41.42,0:00:43.82,Highlight,,0,0,0,,{\an5\pos(960,830)}raaga dariya {\c&H00D7FF&}mere{\c&H00E6E6E6&} dil ka, yeh behta na
+Dialogue: 1,0:00:43.82,0:00:45.61,Highlight,,0,0,0,,{\an5\pos(960,830)}raaga dariya mere {\c&H00D7FF&}dil{\c&H00E6E6E6&} ka, yeh behta na
+Dialogue: 1,0:00:45.62,0:00:46.82,Highlight,,0,0,0,,{\an5\pos(960,830)}raaga dariya mere dil {\c&H00D7FF&}ka,{\c&H00E6E6E6&} yeh behta na
+Dialogue: 1,0:00:46.82,0:00:48.02,Highlight,,0,0,0,,{\an5\pos(960,830)}raaga dariya mere dil ka, {\c&H00D7FF&}yeh{\c&H00E6E6E6&} behta na
+Dialogue: 1,0:00:48.02,0:00:50.41,Highlight,,0,0,0,,{\an5\pos(960,830)}raaga dariya mere dil ka, yeh {\c&H00D7FF&}behta{\c&H00E6E6E6&} na
+Dialogue: 1,0:00:50.41,0:00:51.70,Highlight,,0,0,0,,{\an5\pos(960,830)}raaga dariya mere dil ka, yeh behta {\c&H00D7FF&}na{\c&H00E6E6E6&}
+Dialogue: 0,0:00:51.80,0:00:58.60,Base,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi ki tu wajah hai na
+Dialogue: 1,0:00:51.80,0:00:52.24,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}dukhi{\c&H00E6E6E6&} dil ki sada kuch ye kehta na, iski khamoshi ki tu wajah hai na
+Dialogue: 1,0:00:52.24,0:00:52.66,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi {\c&H00D7FF&}dil{\c&H00E6E6E6&} ki sada kuch ye kehta na, iski khamoshi ki tu wajah hai na
+Dialogue: 1,0:00:52.66,0:00:52.95,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil {\c&H00D7FF&}ki{\c&H00E6E6E6&} sada kuch ye kehta na, iski khamoshi ki tu wajah hai na
+Dialogue: 1,0:00:52.95,0:00:53.37,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki {\c&H00D7FF&}sada{\c&H00E6E6E6&} kuch ye kehta na, iski khamoshi ki tu wajah hai na
+Dialogue: 1,0:00:53.37,0:00:53.78,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada {\c&H00D7FF&}kuch{\c&H00E6E6E6&} ye kehta na, iski khamoshi ki tu wajah hai na
+Dialogue: 1,0:00:53.78,0:00:54.06,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch {\c&H00D7FF&}ye{\c&H00E6E6E6&} kehta na, iski khamoshi ki tu wajah hai na
+Dialogue: 1,0:00:54.06,0:00:54.63,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye {\c&H00D7FF&}kehta{\c&H00E6E6E6&} na, iski khamoshi ki tu wajah hai na
+Dialogue: 1,0:00:54.63,0:00:55.14,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta {\c&H00D7FF&}na,{\c&H00E6E6E6&} iski khamoshi ki tu wajah hai na
+Dialogue: 1,0:00:55.25,0:00:55.78,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, {\c&H00D7FF&}iski{\c&H00E6E6E6&} khamoshi ki tu wajah hai na
+Dialogue: 1,0:00:55.78,0:00:56.73,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski {\c&H00D7FF&}khamoshi{\c&H00E6E6E6&} ki tu wajah hai na
+Dialogue: 1,0:00:56.73,0:00:57.05,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi {\c&H00D7FF&}ki{\c&H00E6E6E6&} tu wajah hai na
+Dialogue: 1,0:00:57.05,0:00:57.36,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi ki {\c&H00D7FF&}tu{\c&H00E6E6E6&} wajah hai na
+Dialogue: 1,0:00:57.36,0:00:57.82,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi ki tu {\c&H00D7FF&}wajah{\c&H00E6E6E6&} hai na
+Dialogue: 1,0:00:57.82,0:00:58.14,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi ki tu wajah {\c&H00D7FF&}hai{\c&H00E6E6E6&} na
+Dialogue: 1,0:00:58.14,0:00:58.60,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi ki tu wajah hai {\c&H00D7FF&}na{\c&H00E6E6E6&}
+Dialogue: 0,0:00:58.70,0:01:02.04,Base,,0,0,0,,{\an5\pos(960,830)}dil se tang aa gaya, yahi saza hai na
+Dialogue: 1,0:00:58.70,0:00:59.02,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}dil{\c&H00E6E6E6&} se tang aa gaya, yahi saza hai na
+Dialogue: 1,0:00:59.02,0:00:59.30,Highlight,,0,0,0,,{\an5\pos(960,830)}dil {\c&H00D7FF&}se{\c&H00E6E6E6&} tang aa gaya, yahi saza hai na
+Dialogue: 1,0:00:59.30,0:00:59.71,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se {\c&H00D7FF&}tang{\c&H00E6E6E6&} aa gaya, yahi saza hai na
+Dialogue: 1,0:00:59.71,0:00:59.85,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang {\c&H00D7FF&}aa{\c&H00E6E6E6&} gaya, yahi saza hai na
+Dialogue: 1,0:00:59.85,0:01:00.27,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang aa {\c&H00D7FF&}gaya,{\c&H00E6E6E6&} yahi saza hai na
+Dialogue: 1,0:01:00.27,0:01:00.83,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang aa gaya, {\c&H00D7FF&}yahi{\c&H00E6E6E6&} saza hai na
+Dialogue: 1,0:01:00.83,0:01:01.24,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang aa gaya, yahi {\c&H00D7FF&}saza{\c&H00E6E6E6&} hai na
+Dialogue: 1,0:01:01.24,0:01:01.52,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang aa gaya, yahi saza {\c&H00D7FF&}hai{\c&H00E6E6E6&} na
+Dialogue: 1,0:01:01.52,0:01:02.04,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang aa gaya, yahi saza hai {\c&H00D7FF&}na{\c&H00E6E6E6&}
+Dialogue: 0,0:01:02.13,0:01:05.42,Base,,0,0,0,,{\an5\pos(960,830)}ulfaton mein nahi koi paimana
+Dialogue: 1,0:01:02.13,0:01:03.00,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}ulfaton{\c&H00E6E6E6&} mein nahi koi paimana
+Dialogue: 1,0:01:03.00,0:01:03.42,Highlight,,0,0,0,,{\an5\pos(960,830)}ulfaton {\c&H00D7FF&}mein{\c&H00E6E6E6&} nahi koi paimana
+Dialogue: 1,0:01:03.42,0:01:03.97,Highlight,,0,0,0,,{\an5\pos(960,830)}ulfaton mein {\c&H00D7FF&}nahi{\c&H00E6E6E6&} koi paimana
+Dialogue: 1,0:01:03.97,0:01:04.38,Highlight,,0,0,0,,{\an5\pos(960,830)}ulfaton mein nahi {\c&H00D7FF&}koi{\c&H00E6E6E6&} paimana
+Dialogue: 1,0:01:04.38,0:01:05.42,Highlight,,0,0,0,,{\an5\pos(960,830)}ulfaton mein nahi koi {\c&H00D7FF&}paimana{\c&H00E6E6E6&}
+Dialogue: 0,0:01:05.55,0:01:08.86,Base,,0,0,0,,{\an5\pos(960,830)}mere apnon ka mujhse ye kehna tha
+Dialogue: 1,0:01:05.55,0:01:05.94,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}mere{\c&H00E6E6E6&} apnon ka mujhse ye kehna tha
+Dialogue: 1,0:01:05.94,0:01:06.59,Highlight,,0,0,0,,{\an5\pos(960,830)}mere {\c&H00D7FF&}apnon{\c&H00E6E6E6&} ka mujhse ye kehna tha
+Dialogue: 1,0:01:06.59,0:01:06.85,Highlight,,0,0,0,,{\an5\pos(960,830)}mere apnon {\c&H00D7FF&}ka{\c&H00E6E6E6&} mujhse ye kehna tha
+Dialogue: 1,0:01:06.85,0:01:07.63,Highlight,,0,0,0,,{\an5\pos(960,830)}mere apnon ka {\c&H00D7FF&}mujhse{\c&H00E6E6E6&} ye kehna tha
+Dialogue: 1,0:01:07.63,0:01:07.89,Highlight,,0,0,0,,{\an5\pos(960,830)}mere apnon ka mujhse {\c&H00D7FF&}ye{\c&H00E6E6E6&} kehna tha
+Dialogue: 1,0:01:07.89,0:01:08.40,Highlight,,0,0,0,,{\an5\pos(960,830)}mere apnon ka mujhse ye {\c&H00D7FF&}kehna{\c&H00E6E6E6&} tha
+Dialogue: 1,0:01:08.40,0:01:08.86,Highlight,,0,0,0,,{\an5\pos(960,830)}mere apnon ka mujhse ye kehna {\c&H00D7FF&}tha{\c&H00E6E6E6&}
+Dialogue: 0,0:01:09.00,0:01:12.30,Base,,0,0,0,,{\an5\pos(960,830)}surmai teri aankhon mein beh jaana
+Dialogue: 1,0:01:09.00,0:01:09.68,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}surmai{\c&H00E6E6E6&} teri aankhon mein beh jaana
+Dialogue: 1,0:01:09.69,0:01:10.25,Highlight,,0,0,0,,{\an5\pos(960,830)}surmai {\c&H00D7FF&}teri{\c&H00E6E6E6&} aankhon mein beh jaana
+Dialogue: 1,0:01:10.25,0:01:10.79,Highlight,,0,0,0,,{\an5\pos(960,830)}surmai teri {\c&H00D7FF&}aankhon{\c&H00E6E6E6&} mein beh jaana
+Dialogue: 1,0:01:10.79,0:01:11.21,Highlight,,0,0,0,,{\an5\pos(960,830)}surmai teri aankhon {\c&H00D7FF&}mein{\c&H00E6E6E6&} beh jaana
+Dialogue: 1,0:01:11.21,0:01:11.49,Highlight,,0,0,0,,{\an5\pos(960,830)}surmai teri aankhon mein {\c&H00D7FF&}beh{\c&H00E6E6E6&} jaana
+Dialogue: 1,0:01:11.49,0:01:12.30,Highlight,,0,0,0,,{\an5\pos(960,830)}surmai teri aankhon mein beh {\c&H00D7FF&}jaana{\c&H00E6E6E6&}
+Dialogue: 0,0:01:12.43,0:01:15.86,Base,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi rehna tha, rehna tha
+Dialogue: 1,0:01:12.43,0:01:12.82,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}kya{\c&H00E6E6E6&} pata tere gham mein hi rehna tha, rehna tha
+Dialogue: 1,0:01:12.82,0:01:13.34,Highlight,,0,0,0,,{\an5\pos(960,830)}kya {\c&H00D7FF&}pata{\c&H00E6E6E6&} tere gham mein hi rehna tha, rehna tha
+Dialogue: 1,0:01:13.34,0:01:13.86,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata {\c&H00D7FF&}tere{\c&H00E6E6E6&} gham mein hi rehna tha, rehna tha
+Dialogue: 1,0:01:13.86,0:01:14.12,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere {\c&H00D7FF&}gham{\c&H00E6E6E6&} mein hi rehna tha, rehna tha
+Dialogue: 1,0:01:14.12,0:01:14.51,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham {\c&H00D7FF&}mein{\c&H00E6E6E6&} hi rehna tha, rehna tha
+Dialogue: 1,0:01:14.51,0:01:14.77,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein {\c&H00D7FF&}hi{\c&H00E6E6E6&} rehna tha, rehna tha
+Dialogue: 1,0:01:14.77,0:01:15.28,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi {\c&H00D7FF&}rehna{\c&H00E6E6E6&} tha, rehna tha
+Dialogue: 1,0:01:15.28,0:01:15.74,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi rehna {\c&H00D7FF&}tha,{\c&H00E6E6E6&} rehna tha
+Dialogue: 1,0:01:15.74,0:01:15.80,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi rehna tha, {\c&H00D7FF&}rehna{\c&H00E6E6E6&} tha
+Dialogue: 1,0:01:15.80,0:01:15.86,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi rehna tha, rehna {\c&H00D7FF&}tha{\c&H00E6E6E6&}
+Dialogue: 0,0:01:15.88,0:01:31.84,Base,,0,0,0,,{\an5\pos(960,830)}kyun yun sahte sahte dil ko gham kha chuka meri jaan
+Dialogue: 1,0:01:15.88,0:01:19.44,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}kyun{\c&H00E6E6E6&} yun sahte sahte dil ko gham kha chuka meri jaan
+Dialogue: 1,0:01:19.44,0:01:20.90,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun {\c&H00D7FF&}yun{\c&H00E6E6E6&} sahte sahte dil ko gham kha chuka meri jaan
+Dialogue: 1,0:01:20.90,0:01:24.60,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun {\c&H00D7FF&}sahte{\c&H00E6E6E6&} sahte dil ko gham kha chuka meri jaan
+Dialogue: 1,0:01:24.60,0:01:28.38,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun sahte {\c&H00D7FF&}sahte{\c&H00E6E6E6&} dil ko gham kha chuka meri jaan
+Dialogue: 1,0:01:28.38,0:01:28.83,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun sahte sahte {\c&H00D7FF&}dil{\c&H00E6E6E6&} ko gham kha chuka meri jaan
+Dialogue: 1,0:01:28.83,0:01:29.13,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun sahte sahte dil {\c&H00D7FF&}ko{\c&H00E6E6E6&} gham kha chuka meri jaan
+Dialogue: 1,0:01:29.13,0:01:29.42,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun sahte sahte dil ko {\c&H00D7FF&}gham{\c&H00E6E6E6&} kha chuka meri jaan
+Dialogue: 1,0:01:29.43,0:01:29.73,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun sahte sahte dil ko gham {\c&H00D7FF&}kha{\c&H00E6E6E6&} chuka meri jaan
+Dialogue: 1,0:01:29.73,0:01:30.38,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun sahte sahte dil ko gham kha {\c&H00D7FF&}chuka{\c&H00E6E6E6&} meri jaan
+Dialogue: 1,0:01:30.38,0:01:30.98,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun sahte sahte dil ko gham kha chuka {\c&H00D7FF&}meri{\c&H00E6E6E6&} jaan
+Dialogue: 1,0:01:30.98,0:01:31.84,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun sahte sahte dil ko gham kha chuka meri {\c&H00D7FF&}jaan{\c&H00E6E6E6&}
+Dialogue: 0,0:01:32.00,0:01:38.59,Base,,0,0,0,,{\an5\pos(960,830)}kyun yun rehte rehte dikhe na koi disha kyun
+Dialogue: 1,0:01:32.00,0:01:32.86,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}kyun{\c&H00E6E6E6&} yun rehte rehte dikhe na koi disha kyun
+Dialogue: 1,0:01:32.86,0:01:33.24,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun {\c&H00D7FF&}yun{\c&H00E6E6E6&} rehte rehte dikhe na koi disha kyun
+Dialogue: 1,0:01:33.24,0:01:34.03,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun {\c&H00D7FF&}rehte{\c&H00E6E6E6&} rehte dikhe na koi disha kyun
+Dialogue: 1,0:01:34.03,0:01:34.82,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun rehte {\c&H00D7FF&}rehte{\c&H00E6E6E6&} dikhe na koi disha kyun
+Dialogue: 1,0:01:34.82,0:01:35.60,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun rehte rehte {\c&H00D7FF&}dikhe{\c&H00E6E6E6&} na koi disha kyun
+Dialogue: 1,0:01:35.60,0:01:35.99,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun rehte rehte dikhe {\c&H00D7FF&}na{\c&H00E6E6E6&} koi disha kyun
+Dialogue: 1,0:01:35.99,0:01:36.58,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun rehte rehte dikhe na {\c&H00D7FF&}koi{\c&H00E6E6E6&} disha kyun
+Dialogue: 1,0:01:36.58,0:01:37.54,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun rehte rehte dikhe na koi {\c&H00D7FF&}disha{\c&H00E6E6E6&} kyun
+Dialogue: 1,0:01:37.68,0:01:38.59,Highlight,,0,0,0,,{\an5\pos(960,830)}kyun yun rehte rehte dikhe na koi disha {\c&H00D7FF&}kyun{\c&H00E6E6E6&}
+Dialogue: 0,0:01:38.59,0:01:46.50,Base,,0,0,0,,{\an5\pos(960,830)}yun sahte sahte dil ko gham kha chuka, meri jaan kyun
+Dialogue: 1,0:01:38.59,0:01:39.01,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}yun{\c&H00E6E6E6&} sahte sahte dil ko gham kha chuka, meri jaan kyun
+Dialogue: 1,0:01:39.01,0:01:40.06,Highlight,,0,0,0,,{\an5\pos(960,830)}yun {\c&H00D7FF&}sahte{\c&H00E6E6E6&} sahte dil ko gham kha chuka, meri jaan kyun
+Dialogue: 1,0:01:40.06,0:01:41.10,Highlight,,0,0,0,,{\an5\pos(960,830)}yun sahte {\c&H00D7FF&}sahte{\c&H00E6E6E6&} dil ko gham kha chuka, meri jaan kyun
+Dialogue: 1,0:01:41.11,0:01:41.74,Highlight,,0,0,0,,{\an5\pos(960,830)}yun sahte sahte {\c&H00D7FF&}dil{\c&H00E6E6E6&} ko gham kha chuka, meri jaan kyun
+Dialogue: 1,0:01:41.74,0:01:42.16,Highlight,,0,0,0,,{\an5\pos(960,830)}yun sahte sahte dil {\c&H00D7FF&}ko{\c&H00E6E6E6&} gham kha chuka, meri jaan kyun
+Dialogue: 1,0:01:42.16,0:01:42.58,Highlight,,0,0,0,,{\an5\pos(960,830)}yun sahte sahte dil ko {\c&H00D7FF&}gham{\c&H00E6E6E6&} kha chuka, meri jaan kyun
+Dialogue: 1,0:01:42.58,0:01:43.00,Highlight,,0,0,0,,{\an5\pos(960,830)}yun sahte sahte dil ko gham {\c&H00D7FF&}kha{\c&H00E6E6E6&} chuka, meri jaan kyun
+Dialogue: 1,0:01:43.00,0:01:43.84,Highlight,,0,0,0,,{\an5\pos(960,830)}yun sahte sahte dil ko gham kha {\c&H00D7FF&}chuka,{\c&H00E6E6E6&} meri jaan kyun
+Dialogue: 1,0:01:43.84,0:01:44.68,Highlight,,0,0,0,,{\an5\pos(960,830)}yun sahte sahte dil ko gham kha chuka, {\c&H00D7FF&}meri{\c&H00E6E6E6&} jaan kyun
+Dialogue: 1,0:01:44.68,0:01:45.54,Highlight,,0,0,0,,{\an5\pos(960,830)}yun sahte sahte dil ko gham kha chuka, meri {\c&H00D7FF&}jaan{\c&H00E6E6E6&} kyun
+Dialogue: 1,0:01:45.68,0:01:46.50,Highlight,,0,0,0,,{\an5\pos(960,830)}yun sahte sahte dil ko gham kha chuka, meri jaan {\c&H00D7FF&}kyun{\c&H00E6E6E6&}
+Dialogue: 0,0:01:46.50,0:01:51.14,Base,,0,0,0,,{\an5\pos(960,830)}yun rehte rehte dikhe na koi disha
+Dialogue: 1,0:01:46.50,0:01:46.88,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}yun{\c&H00E6E6E6&} rehte rehte dikhe na koi disha
+Dialogue: 1,0:01:46.88,0:01:47.64,Highlight,,0,0,0,,{\an5\pos(960,830)}yun {\c&H00D7FF&}rehte{\c&H00E6E6E6&} rehte dikhe na koi disha
+Dialogue: 1,0:01:47.64,0:01:48.40,Highlight,,0,0,0,,{\an5\pos(960,830)}yun rehte {\c&H00D7FF&}rehte{\c&H00E6E6E6&} dikhe na koi disha
+Dialogue: 1,0:01:48.40,0:01:49.16,Highlight,,0,0,0,,{\an5\pos(960,830)}yun rehte rehte {\c&H00D7FF&}dikhe{\c&H00E6E6E6&} na koi disha
+Dialogue: 1,0:01:49.16,0:01:49.54,Highlight,,0,0,0,,{\an5\pos(960,830)}yun rehte rehte dikhe {\c&H00D7FF&}na{\c&H00E6E6E6&} koi disha
+Dialogue: 1,0:01:49.54,0:01:50.12,Highlight,,0,0,0,,{\an5\pos(960,830)}yun rehte rehte dikhe na {\c&H00D7FF&}koi{\c&H00E6E6E6&} disha
+Dialogue: 1,0:01:50.12,0:01:51.14,Highlight,,0,0,0,,{\an5\pos(960,830)}yun rehte rehte dikhe na koi {\c&H00D7FF&}disha{\c&H00E6E6E6&}
+Dialogue: 0,0:01:51.25,0:01:59.08,Base,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:01:51.25,0:01:51.47,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}jo{\c&H00E6E6E6&} tu nahi, to aisa main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:01:51.47,0:01:51.79,Highlight,,0,0,0,,{\an5\pos(960,830)}jo {\c&H00D7FF&}tu{\c&H00E6E6E6&} nahi, to aisa main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:01:51.79,0:01:52.46,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu {\c&H00D7FF&}nahi,{\c&H00E6E6E6&} to aisa main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:01:52.46,0:01:52.79,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, {\c&H00D7FF&}to{\c&H00E6E6E6&} aisa main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:01:52.79,0:01:53.29,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to {\c&H00D7FF&}aisa{\c&H00E6E6E6&} main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:01:53.29,0:01:53.80,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa {\c&H00D7FF&}main{\c&H00E6E6E6&} chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:01:53.80,0:01:54.58,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main {\c&H00D7FF&}chehra{\c&H00E6E6E6&} ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:01:54.58,0:01:54.92,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra {\c&H00D7FF&}ke{\c&H00E6E6E6&} jiski khoobsurati maand padi ho
+Dialogue: 1,0:01:54.92,0:01:55.78,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke {\c&H00D7FF&}jiski{\c&H00E6E6E6&} khoobsurati maand padi ho
+Dialogue: 1,0:01:55.78,0:01:57.30,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke jiski {\c&H00D7FF&}khoobsurati{\c&H00E6E6E6&} maand padi ho
+Dialogue: 1,0:01:57.30,0:01:57.94,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke jiski khoobsurati {\c&H00D7FF&}maand{\c&H00E6E6E6&} padi ho
+Dialogue: 1,0:01:57.94,0:01:58.70,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke jiski khoobsurati maand {\c&H00D7FF&}padi{\c&H00E6E6E6&} ho
+Dialogue: 1,0:01:58.70,0:01:59.08,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke jiski khoobsurati maand padi {\c&H00D7FF&}ho{\c&H00E6E6E6&}
+Dialogue: 0,0:01:59.22,0:02:04.60,Base,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo behna na chahe
+Dialogue: 1,0:01:59.22,0:01:59.76,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}aisa{\c&H00E6E6E6&} main dariya, jo behna na chahe
+Dialogue: 1,0:01:59.76,0:02:00.45,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa {\c&H00D7FF&}main{\c&H00E6E6E6&} dariya, jo behna na chahe
+Dialogue: 1,0:02:00.45,0:02:01.62,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main {\c&H00D7FF&}dariya,{\c&H00E6E6E6&} jo behna na chahe
+Dialogue: 1,0:02:01.62,0:02:02.10,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, {\c&H00D7FF&}jo{\c&H00E6E6E6&} behna na chahe
+Dialogue: 1,0:02:02.10,0:02:03.05,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo {\c&H00D7FF&}behna{\c&H00E6E6E6&} na chahe
+Dialogue: 1,0:02:03.06,0:02:03.54,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo behna {\c&H00D7FF&}na{\c&H00E6E6E6&} chahe
+Dialogue: 1,0:02:03.54,0:02:04.60,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo behna na {\c&H00D7FF&}chahe{\c&H00E6E6E6&}
+Dialogue: 0,0:02:04.72,0:02:12.80,Base,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:02:04.72,0:02:04.96,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}jo{\c&H00E6E6E6&} tu nahi, to aisa main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:02:04.96,0:02:05.32,Highlight,,0,0,0,,{\an5\pos(960,830)}jo {\c&H00D7FF&}tu{\c&H00E6E6E6&} nahi, to aisa main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:02:05.32,0:02:06.04,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu {\c&H00D7FF&}nahi,{\c&H00E6E6E6&} to aisa main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:02:06.04,0:02:06.40,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, {\c&H00D7FF&}to{\c&H00E6E6E6&} aisa main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:02:06.40,0:02:06.94,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to {\c&H00D7FF&}aisa{\c&H00E6E6E6&} main chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:02:06.94,0:02:07.48,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa {\c&H00D7FF&}main{\c&H00E6E6E6&} chehra ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:02:07.48,0:02:08.20,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main {\c&H00D7FF&}chehra{\c&H00E6E6E6&} ke jiski khoobsurati maand padi ho
+Dialogue: 1,0:02:08.20,0:02:08.56,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra {\c&H00D7FF&}ke{\c&H00E6E6E6&} jiski khoobsurati maand padi ho
+Dialogue: 1,0:02:08.56,0:02:09.50,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke {\c&H00D7FF&}jiski{\c&H00E6E6E6&} khoobsurati maand padi ho
+Dialogue: 1,0:02:09.50,0:02:11.16,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke jiski {\c&H00D7FF&}khoobsurati{\c&H00E6E6E6&} maand padi ho
+Dialogue: 1,0:02:11.16,0:02:11.79,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke jiski khoobsurati {\c&H00D7FF&}maand{\c&H00E6E6E6&} padi ho
+Dialogue: 1,0:02:11.79,0:02:12.40,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke jiski khoobsurati maand {\c&H00D7FF&}padi{\c&H00E6E6E6&} ho
+Dialogue: 1,0:02:12.40,0:02:12.80,Highlight,,0,0,0,,{\an5\pos(960,830)}jo tu nahi, to aisa main chehra ke jiski khoobsurati maand padi {\c&H00D7FF&}ho{\c&H00E6E6E6&}
+Dialogue: 0,0:02:13.29,0:02:18.40,Base,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo behna na chahe
+Dialogue: 1,0:02:13.29,0:02:14.03,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}aisa{\c&H00E6E6E6&} main dariya, jo behna na chahe
+Dialogue: 1,0:02:14.03,0:02:14.78,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa {\c&H00D7FF&}main{\c&H00E6E6E6&} dariya, jo behna na chahe
+Dialogue: 1,0:02:14.78,0:02:16.10,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main {\c&H00D7FF&}dariya,{\c&H00E6E6E6&} jo behna na chahe
+Dialogue: 1,0:02:16.10,0:02:16.47,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, {\c&H00D7FF&}jo{\c&H00E6E6E6&} behna na chahe
+Dialogue: 1,0:02:16.47,0:02:17.22,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo {\c&H00D7FF&}behna{\c&H00E6E6E6&} na chahe
+Dialogue: 1,0:02:17.22,0:02:17.59,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo behna {\c&H00D7FF&}na{\c&H00E6E6E6&} chahe
+Dialogue: 1,0:02:17.59,0:02:18.40,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo behna na {\c&H00D7FF&}chahe{\c&H00E6E6E6&}
+Dialogue: 0,0:02:18.54,0:02:24.00,Base,,0,0,0,,{\an5\pos(960,830)}dariya mere dil ka, ye behta na
+Dialogue: 1,0:02:18.54,0:02:19.65,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}dariya{\c&H00E6E6E6&} mere dil ka, ye behta na
+Dialogue: 1,0:02:19.65,0:02:20.65,Highlight,,0,0,0,,{\an5\pos(960,830)}dariya {\c&H00D7FF&}mere{\c&H00E6E6E6&} dil ka, ye behta na
+Dialogue: 1,0:02:20.65,0:02:21.40,Highlight,,0,0,0,,{\an5\pos(960,830)}dariya mere {\c&H00D7FF&}dil{\c&H00E6E6E6&} ka, ye behta na
+Dialogue: 1,0:02:21.40,0:02:21.90,Highlight,,0,0,0,,{\an5\pos(960,830)}dariya mere dil {\c&H00D7FF&}ka,{\c&H00E6E6E6&} ye behta na
+Dialogue: 1,0:02:21.90,0:02:22.40,Highlight,,0,0,0,,{\an5\pos(960,830)}dariya mere dil ka, {\c&H00D7FF&}ye{\c&H00E6E6E6&} behta na
+Dialogue: 1,0:02:22.40,0:02:23.40,Highlight,,0,0,0,,{\an5\pos(960,830)}dariya mere dil ka, ye {\c&H00D7FF&}behta{\c&H00E6E6E6&} na
+Dialogue: 1,0:02:23.40,0:02:24.00,Highlight,,0,0,0,,{\an5\pos(960,830)}dariya mere dil ka, ye behta {\c&H00D7FF&}na{\c&H00E6E6E6&}
+Dialogue: 0,0:02:24.00,0:02:29.84,Base,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi ki tu wajah hai
+Dialogue: 1,0:02:24.00,0:02:24.49,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}dukhi{\c&H00E6E6E6&} dil ki sada kuch ye kehta na, iski khamoshi ki tu wajah hai
+Dialogue: 1,0:02:24.49,0:02:24.87,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi {\c&H00D7FF&}dil{\c&H00E6E6E6&} ki sada kuch ye kehta na, iski khamoshi ki tu wajah hai
+Dialogue: 1,0:02:24.87,0:02:25.13,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil {\c&H00D7FF&}ki{\c&H00E6E6E6&} sada kuch ye kehta na, iski khamoshi ki tu wajah hai
+Dialogue: 1,0:02:25.13,0:02:25.51,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki {\c&H00D7FF&}sada{\c&H00E6E6E6&} kuch ye kehta na, iski khamoshi ki tu wajah hai
+Dialogue: 1,0:02:25.51,0:02:26.00,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada {\c&H00D7FF&}kuch{\c&H00E6E6E6&} ye kehta na, iski khamoshi ki tu wajah hai
+Dialogue: 1,0:02:26.00,0:02:26.24,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch {\c&H00D7FF&}ye{\c&H00E6E6E6&} kehta na, iski khamoshi ki tu wajah hai
+Dialogue: 1,0:02:26.24,0:02:26.72,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye {\c&H00D7FF&}kehta{\c&H00E6E6E6&} na, iski khamoshi ki tu wajah hai
+Dialogue: 1,0:02:26.72,0:02:27.00,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta {\c&H00D7FF&}na,{\c&H00E6E6E6&} iski khamoshi ki tu wajah hai
+Dialogue: 1,0:02:27.00,0:02:28.00,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, {\c&H00D7FF&}iski{\c&H00E6E6E6&} khamoshi ki tu wajah hai
+Dialogue: 1,0:02:28.00,0:02:28.72,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski {\c&H00D7FF&}khamoshi{\c&H00E6E6E6&} ki tu wajah hai
+Dialogue: 1,0:02:28.72,0:02:28.96,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi {\c&H00D7FF&}ki{\c&H00E6E6E6&} tu wajah hai
+Dialogue: 1,0:02:28.96,0:02:29.20,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi ki {\c&H00D7FF&}tu{\c&H00E6E6E6&} wajah hai
+Dialogue: 1,0:02:29.20,0:02:29.62,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi ki tu {\c&H00D7FF&}wajah{\c&H00E6E6E6&} hai
+Dialogue: 1,0:02:29.62,0:02:29.84,Highlight,,0,0,0,,{\an5\pos(960,830)}dukhi dil ki sada kuch ye kehta na, iski khamoshi ki tu wajah {\c&H00D7FF&}hai{\c&H00E6E6E6&}
+Dialogue: 0,0:02:30.10,0:02:33.60,Base,,0,0,0,,{\an5\pos(960,830)}dil se tang aa gaya, yahi saza hai na
+Dialogue: 1,0:02:30.10,0:02:30.42,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}dil{\c&H00E6E6E6&} se tang aa gaya, yahi saza hai na
+Dialogue: 1,0:02:30.42,0:02:30.71,Highlight,,0,0,0,,{\an5\pos(960,830)}dil {\c&H00D7FF&}se{\c&H00E6E6E6&} tang aa gaya, yahi saza hai na
+Dialogue: 1,0:02:30.71,0:02:31.12,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se {\c&H00D7FF&}tang{\c&H00E6E6E6&} aa gaya, yahi saza hai na
+Dialogue: 1,0:02:31.12,0:02:31.26,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang {\c&H00D7FF&}aa{\c&H00E6E6E6&} gaya, yahi saza hai na
+Dialogue: 1,0:02:31.26,0:02:31.68,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang aa {\c&H00D7FF&}gaya,{\c&H00E6E6E6&} yahi saza hai na
+Dialogue: 1,0:02:31.68,0:02:32.25,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang aa gaya, {\c&H00D7FF&}yahi{\c&H00E6E6E6&} saza hai na
+Dialogue: 1,0:02:32.25,0:02:32.81,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang aa gaya, yahi {\c&H00D7FF&}saza{\c&H00E6E6E6&} hai na
+Dialogue: 1,0:02:32.81,0:02:33.10,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang aa gaya, yahi saza {\c&H00D7FF&}hai{\c&H00E6E6E6&} na
+Dialogue: 1,0:02:33.10,0:02:33.60,Highlight,,0,0,0,,{\an5\pos(960,830)}dil se tang aa gaya, yahi saza hai {\c&H00D7FF&}na{\c&H00E6E6E6&}
+Dialogue: 0,0:02:33.60,0:02:36.68,Base,,0,0,0,,{\an5\pos(960,830)}ulfaton mein nahi koi paimana
+Dialogue: 1,0:02:33.60,0:02:34.56,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}ulfaton{\c&H00E6E6E6&} mein nahi koi paimana
+Dialogue: 1,0:02:34.56,0:02:34.98,Highlight,,0,0,0,,{\an5\pos(960,830)}ulfaton {\c&H00D7FF&}mein{\c&H00E6E6E6&} nahi koi paimana
+Dialogue: 1,0:02:34.98,0:02:35.60,Highlight,,0,0,0,,{\an5\pos(960,830)}ulfaton mein {\c&H00D7FF&}nahi{\c&H00E6E6E6&} koi paimana
+Dialogue: 1,0:02:35.60,0:02:35.72,Highlight,,0,0,0,,{\an5\pos(960,830)}ulfaton mein nahi {\c&H00D7FF&}koi{\c&H00E6E6E6&} paimana
+Dialogue: 1,0:02:35.72,0:02:36.68,Highlight,,0,0,0,,{\an5\pos(960,830)}ulfaton mein nahi koi {\c&H00D7FF&}paimana{\c&H00E6E6E6&}
+Dialogue: 0,0:02:36.68,0:02:41.20,Base,,0,0,0,,{\an5\pos(960,830)}mere apnon ka mujhse ye kehna tha
+Dialogue: 1,0:02:36.68,0:02:37.40,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}mere{\c&H00E6E6E6&} apnon ka mujhse ye kehna tha
+Dialogue: 1,0:02:37.40,0:02:38.30,Highlight,,0,0,0,,{\an5\pos(960,830)}mere {\c&H00D7FF&}apnon{\c&H00E6E6E6&} ka mujhse ye kehna tha
+Dialogue: 1,0:02:38.30,0:02:38.66,Highlight,,0,0,0,,{\an5\pos(960,830)}mere apnon {\c&H00D7FF&}ka{\c&H00E6E6E6&} mujhse ye kehna tha
+Dialogue: 1,0:02:38.66,0:02:39.56,Highlight,,0,0,0,,{\an5\pos(960,830)}mere apnon ka {\c&H00D7FF&}mujhse{\c&H00E6E6E6&} ye kehna tha
+Dialogue: 1,0:02:39.56,0:02:39.92,Highlight,,0,0,0,,{\an5\pos(960,830)}mere apnon ka mujhse {\c&H00D7FF&}ye{\c&H00E6E6E6&} kehna tha
+Dialogue: 1,0:02:39.92,0:02:40.64,Highlight,,0,0,0,,{\an5\pos(960,830)}mere apnon ka mujhse ye {\c&H00D7FF&}kehna{\c&H00E6E6E6&} tha
+Dialogue: 1,0:02:40.64,0:02:41.20,Highlight,,0,0,0,,{\an5\pos(960,830)}mere apnon ka mujhse ye kehna {\c&H00D7FF&}tha{\c&H00E6E6E6&}
+Dialogue: 0,0:02:41.20,0:02:44.00,Base,,0,0,0,,{\an5\pos(960,830)}surmai teri aankhon mein beh jaana
+Dialogue: 1,0:02:41.20,0:02:41.64,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}surmai{\c&H00E6E6E6&} teri aankhon mein beh jaana
+Dialogue: 1,0:02:41.64,0:02:42.00,Highlight,,0,0,0,,{\an5\pos(960,830)}surmai {\c&H00D7FF&}teri{\c&H00E6E6E6&} aankhon mein beh jaana
+Dialogue: 1,0:02:42.00,0:02:42.74,Highlight,,0,0,0,,{\an5\pos(960,830)}surmai teri {\c&H00D7FF&}aankhon{\c&H00E6E6E6&} mein beh jaana
+Dialogue: 1,0:02:42.74,0:02:43.20,Highlight,,0,0,0,,{\an5\pos(960,830)}surmai teri aankhon {\c&H00D7FF&}mein{\c&H00E6E6E6&} beh jaana
+Dialogue: 1,0:02:43.20,0:02:43.40,Highlight,,0,0,0,,{\an5\pos(960,830)}surmai teri aankhon mein {\c&H00D7FF&}beh{\c&H00E6E6E6&} jaana
+Dialogue: 1,0:02:43.40,0:02:44.00,Highlight,,0,0,0,,{\an5\pos(960,830)}surmai teri aankhon mein beh {\c&H00D7FF&}jaana{\c&H00E6E6E6&}
+Dialogue: 0,0:02:44.00,0:02:47.20,Base,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi rehna tha
+Dialogue: 1,0:02:44.00,0:02:44.64,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}kya{\c&H00E6E6E6&} pata tere gham mein hi rehna tha
+Dialogue: 1,0:02:44.64,0:02:45.20,Highlight,,0,0,0,,{\an5\pos(960,830)}kya {\c&H00D7FF&}pata{\c&H00E6E6E6&} tere gham mein hi rehna tha
+Dialogue: 1,0:02:45.20,0:02:45.60,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata {\c&H00D7FF&}tere{\c&H00E6E6E6&} gham mein hi rehna tha
+Dialogue: 1,0:02:45.60,0:02:45.82,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere {\c&H00D7FF&}gham{\c&H00E6E6E6&} mein hi rehna tha
+Dialogue: 1,0:02:45.82,0:02:46.20,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham {\c&H00D7FF&}mein{\c&H00E6E6E6&} hi rehna tha
+Dialogue: 1,0:02:46.20,0:02:46.47,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein {\c&H00D7FF&}hi{\c&H00E6E6E6&} rehna tha
+Dialogue: 1,0:02:46.47,0:02:47.04,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi {\c&H00D7FF&}rehna{\c&H00E6E6E6&} tha
+Dialogue: 1,0:02:47.04,0:02:47.20,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi rehna {\c&H00D7FF&}tha{\c&H00E6E6E6&}
+Dialogue: 0,0:02:47.34,0:02:54.08,Base,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi rehna tha
+Dialogue: 1,0:02:47.34,0:02:48.32,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}kya{\c&H00E6E6E6&} pata tere gham mein hi rehna tha
+Dialogue: 1,0:02:48.32,0:02:49.16,Highlight,,0,0,0,,{\an5\pos(960,830)}kya {\c&H00D7FF&}pata{\c&H00E6E6E6&} tere gham mein hi rehna tha
+Dialogue: 1,0:02:49.16,0:02:50.28,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata {\c&H00D7FF&}tere{\c&H00E6E6E6&} gham mein hi rehna tha
+Dialogue: 1,0:02:50.28,0:02:50.84,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere {\c&H00D7FF&}gham{\c&H00E6E6E6&} mein hi rehna tha
+Dialogue: 1,0:02:50.84,0:02:51.68,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham {\c&H00D7FF&}mein{\c&H00E6E6E6&} hi rehna tha
+Dialogue: 1,0:02:51.68,0:02:52.24,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein {\c&H00D7FF&}hi{\c&H00E6E6E6&} rehna tha
+Dialogue: 1,0:02:52.24,0:02:53.36,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi {\c&H00D7FF&}rehna{\c&H00E6E6E6&} tha
+Dialogue: 1,0:02:53.36,0:02:54.08,Highlight,,0,0,0,,{\an5\pos(960,830)}kya pata tere gham mein hi rehna {\c&H00D7FF&}tha{\c&H00E6E6E6&}
+Dialogue: 0,0:02:54.08,0:02:59.76,Base,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo behna na chahe
+Dialogue: 1,0:02:54.08,0:02:54.67,Highlight,,0,0,0,,{\an5\pos(960,830)}{\c&H00D7FF&}aisa{\c&H00E6E6E6&} main dariya, jo behna na chahe
+Dialogue: 1,0:02:54.67,0:02:55.27,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa {\c&H00D7FF&}main{\c&H00E6E6E6&} dariya, jo behna na chahe
+Dialogue: 1,0:02:55.27,0:02:56.34,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main {\c&H00D7FF&}dariya,{\c&H00E6E6E6&} jo behna na chahe
+Dialogue: 1,0:02:56.34,0:02:56.90,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, {\c&H00D7FF&}jo{\c&H00E6E6E6&} behna na chahe
+Dialogue: 1,0:02:56.90,0:02:58.02,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo {\c&H00D7FF&}behna{\c&H00E6E6E6&} na chahe
+Dialogue: 1,0:02:58.02,0:02:58.58,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo behna {\c&H00D7FF&}na{\c&H00E6E6E6&} chahe
+Dialogue: 1,0:02:58.58,0:02:59.76,Highlight,,0,0,0,,{\an5\pos(960,830)}aisa main dariya, jo behna na {\c&H00D7FF&}chahe{\c&H00E6E6E6&}

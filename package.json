@@ -1,0 +1,24 @@
+{
+  "name": "pyaar-motion-proof",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Deterministic Remotion motion-design engine and moustache hero proof.",
+  "scripts": {
+    "render:hero": "remotion render video/src/index.tsx MoustacheProof hero-proof.mp4 --frames=0-149 --codec=h264 --audio-codec=aac --concurrency=1",
+    "render:hero:fallback": "python3 video/scripts/render_hero_proof.py",
+    "render:full": "python3 render_full_video.py",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/paths": "^4.0.236",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.236"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.236",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.7.2"
+  }
+}

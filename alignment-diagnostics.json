@@ -1,0 +1,1376 @@
+[
+  {
+    "line": 1,
+    "word": "मिले",
+    "confidence": 0.751745,
+    "source": "0"
+  },
+  {
+    "line": 1,
+    "word": "तो",
+    "confidence": 0.971066,
+    "source": "1"
+  },
+  {
+    "line": 1,
+    "word": "तू",
+    "confidence": 0.839999,
+    "source": "2"
+  },
+  {
+    "line": 1,
+    "word": "कभी",
+    "confidence": 0.811016,
+    "source": "3"
+  },
+  {
+    "line": 1,
+    "word": "नहीं",
+    "confidence": 0.988718,
+    "source": "4"
+  },
+  {
+    "line": 1,
+    "word": "मेरी",
+    "confidence": 0.993102,
+    "source": "5"
+  },
+  {
+    "line": 1,
+    "word": "हसरत",
+    "confidence": 0.827116,
+    "source": "6"
+  },
+  {
+    "line": 1,
+    "word": "क्यों",
+    "confidence": 0.710906,
+    "source": "7"
+  },
+  {
+    "line": 1,
+    "word": "भड़का",
+    "confidence": 0.827027,
+    "source": "8"
+  },
+  {
+    "line": 2,
+    "word": "बेवजा",
+    "confidence": 0.693216,
+    "source": "9"
+  },
+  {
+    "line": 2,
+    "word": "के",
+    "confidence": 0.71617,
+    "source": "10"
+  },
+  {
+    "line": 2,
+    "word": "तुम",
+    "confidence": 0.990058,
+    "source": "11"
+  },
+  {
+    "line": 2,
+    "word": "बिना",
+    "confidence": 0.779731,
+    "source": "12"
+  },
+  {
+    "line": 2,
+    "word": "जिए",
+    "confidence": 0.381639,
+    "source": "13"
+  },
+  {
+    "line": 2,
+    "word": "अगर",
+    "confidence": 0.523013,
+    "source": "14"
+  },
+  {
+    "line": 2,
+    "word": "हुआ",
+    "confidence": 0.810331,
+    "source": "15"
+  },
+  {
+    "line": 2,
+    "word": "कैसे",
+    "confidence": 0.945738,
+    "source": "16"
+  },
+  {
+    "line": 2,
+    "word": "ना",
+    "confidence": 0.598644,
+    "source": "17"
+  },
+  {
+    "line": 2,
+    "word": "ये",
+    "confidence": 0.602299,
+    "source": "18"
+  },
+  {
+    "line": 2,
+    "word": "जीना",
+    "confidence": 0.570493,
+    "source": "19"
+  },
+  {
+    "line": 3,
+    "word": "रागा",
+    "confidence": 0.622912,
+    "source": "20"
+  },
+  {
+    "line": 3,
+    "word": "दरिया",
+    "confidence": 0.67244,
+    "source": "21"
+  },
+  {
+    "line": 3,
+    "word": "मेरे",
+    "confidence": 0.935599,
+    "source": "22"
+  },
+  {
+    "line": 3,
+    "word": "दिल",
+    "confidence": 0.996172,
+    "source": "23"
+  },
+  {
+    "line": 3,
+    "word": "का",
+    "confidence": 0.986807,
+    "source": "24"
+  },
+  {
+    "line": 3,
+    "word": "यह",
+    "confidence": 0.991106,
+    "source": "25"
+  },
+  {
+    "line": 3,
+    "word": "बहता",
+    "confidence": 0.411348,
+    "source": "26:left"
+  },
+  {
+    "line": 3,
+    "word": "ना",
+    "confidence": 0.613229,
+    "source": "26:right"
+  },
+  {
+    "line": 4,
+    "word": "दुखी",
+    "confidence": 0.569638,
+    "source": "27"
+  },
+  {
+    "line": 4,
+    "word": "दिल",
+    "confidence": 0.99518,
+    "source": "28"
+  },
+  {
+    "line": 4,
+    "word": "की",
+    "confidence": 0.994437,
+    "source": "29"
+  },
+  {
+    "line": 4,
+    "word": "सदा",
+    "confidence": 0.641834,
+    "source": "30"
+  },
+  {
+    "line": 4,
+    "word": "कुछ",
+    "confidence": 0.989719,
+    "source": "31"
+  },
+  {
+    "line": 4,
+    "word": "ये",
+    "confidence": 0.94543,
+    "source": "32"
+  },
+  {
+    "line": 4,
+    "word": "कहता",
+    "confidence": 0.984183,
+    "source": "33"
+  },
+  {
+    "line": 4,
+    "word": "ना",
+    "confidence": 0.585246,
+    "source": "34"
+  },
+  {
+    "line": 4,
+    "word": "इसकी",
+    "confidence": 0.948625,
+    "source": "35"
+  },
+  {
+    "line": 4,
+    "word": "खामोशी",
+    "confidence": 0.934663,
+    "source": "36"
+  },
+  {
+    "line": 4,
+    "word": "की",
+    "confidence": 0.994687,
+    "source": "37"
+  },
+  {
+    "line": 4,
+    "word": "तू",
+    "confidence": 0.803987,
+    "source": "38:left"
+  },
+  {
+    "line": 4,
+    "word": "वजह",
+    "confidence": 0.534848,
+    "source": "38:right"
+  },
+  {
+    "line": 4,
+    "word": "है",
+    "confidence": 0.958177,
+    "source": "39"
+  },
+  {
+    "line": 4,
+    "word": "ना",
+    "confidence": 0.979672,
+    "source": "40"
+  },
+  {
+    "line": 5,
+    "word": "दिल",
+    "confidence": 0.992682,
+    "source": "41"
+  },
+  {
+    "line": 5,
+    "word": "से",
+    "confidence": 0.989936,
+    "source": "42"
+  },
+  {
+    "line": 5,
+    "word": "तंग",
+    "confidence": 0.964742,
+    "source": "43"
+  },
+  {
+    "line": 5,
+    "word": "आ",
+    "confidence": 0.986846,
+    "source": "44"
+  },
+  {
+    "line": 5,
+    "word": "गया",
+    "confidence": 0.641212,
+    "source": "45"
+  },
+  {
+    "line": 5,
+    "word": "यही",
+    "confidence": 0.742944,
+    "source": "46+47"
+  },
+  {
+    "line": 5,
+    "word": "सजा",
+    "confidence": 0.757496,
+    "source": "48"
+  },
+  {
+    "line": 5,
+    "word": "है",
+    "confidence": 0.992292,
+    "source": "49"
+  },
+  {
+    "line": 5,
+    "word": "ना",
+    "confidence": 0.992649,
+    "source": "50"
+  },
+  {
+    "line": 6,
+    "word": "उल्फतों",
+    "confidence": 0.816128,
+    "source": "51"
+  },
+  {
+    "line": 6,
+    "word": "में",
+    "confidence": 0.969666,
+    "source": "52"
+  },
+  {
+    "line": 6,
+    "word": "नहीं",
+    "confidence": 0.989791,
+    "source": "53"
+  },
+  {
+    "line": 6,
+    "word": "कोई",
+    "confidence": 0.993424,
+    "source": "54"
+  },
+  {
+    "line": 6,
+    "word": "पैमाना",
+    "confidence": 0.391227,
+    "source": "55"
+  },
+  {
+    "line": 7,
+    "word": "मेरे",
+    "confidence": 0.990382,
+    "source": "56"
+  },
+  {
+    "line": 7,
+    "word": "अपनों",
+    "confidence": 0.984739,
+    "source": "57"
+  },
+  {
+    "line": 7,
+    "word": "का",
+    "confidence": 0.973084,
+    "source": "58"
+  },
+  {
+    "line": 7,
+    "word": "मुझसे",
+    "confidence": 0.766709,
+    "source": "59+60"
+  },
+  {
+    "line": 7,
+    "word": "ये",
+    "confidence": 0.99724,
+    "source": "61"
+  },
+  {
+    "line": 7,
+    "word": "कहना",
+    "confidence": 0.892726,
+    "source": "62"
+  },
+  {
+    "line": 7,
+    "word": "था",
+    "confidence": 0.993898,
+    "source": "63"
+  },
+  {
+    "line": 8,
+    "word": "सुरमई",
+    "confidence": 0.385263,
+    "source": "64+65"
+  },
+  {
+    "line": 8,
+    "word": "तेरी",
+    "confidence": 0.767388,
+    "source": "66"
+  },
+  {
+    "line": 8,
+    "word": "आंखों",
+    "confidence": 0.674697,
+    "source": "67"
+  },
+  {
+    "line": 8,
+    "word": "में",
+    "confidence": 0.732349,
+    "source": "68"
+  },
+  {
+    "line": 8,
+    "word": "बह",
+    "confidence": 0.449246,
+    "source": "69"
+  },
+  {
+    "line": 8,
+    "word": "जाना",
+    "confidence": 0.707657,
+    "source": "70"
+  },
+  {
+    "line": 9,
+    "word": "क्या",
+    "confidence": 0.937792,
+    "source": "71"
+  },
+  {
+    "line": 9,
+    "word": "पता",
+    "confidence": 0.605302,
+    "source": "72"
+  },
+  {
+    "line": 9,
+    "word": "तेरे",
+    "confidence": 0.960829,
+    "source": "73"
+  },
+  {
+    "line": 9,
+    "word": "गम",
+    "confidence": 0.446688,
+    "source": "74"
+  },
+  {
+    "line": 9,
+    "word": "में",
+    "confidence": 0.801005,
+    "source": "75"
+  },
+  {
+    "line": 9,
+    "word": "ही",
+    "confidence": 0.85515,
+    "source": "76"
+  },
+  {
+    "line": 9,
+    "word": "रहना",
+    "confidence": 0.910027,
+    "source": "77"
+  },
+  {
+    "line": 9,
+    "word": "था",
+    "confidence": 0.992446,
+    "source": "78"
+  },
+  {
+    "line": 9,
+    "word": "रहना",
+    "confidence": 0.0,
+    "source": "unmatched-canonical-line-9"
+  },
+  {
+    "line": 9,
+    "word": "था",
+    "confidence": 0.0,
+    "source": "unmatched-canonical-line-9"
+  },
+  {
+    "line": 10,
+    "word": "क्यों",
+    "confidence": 0.929569,
+    "source": "79"
+  },
+  {
+    "line": 10,
+    "word": "यूं",
+    "confidence": 0.695484,
+    "source": "80"
+  },
+  {
+    "line": 10,
+    "word": "सहते",
+    "confidence": 0.600403,
+    "source": "81"
+  },
+  {
+    "line": 10,
+    "word": "सहते",
+    "confidence": 0.925703,
+    "source": "82"
+  },
+  {
+    "line": 10,
+    "word": "दिल",
+    "confidence": 0.663419,
+    "source": "83"
+  },
+  {
+    "line": 10,
+    "word": "को",
+    "confidence": 0.975388,
+    "source": "84"
+  },
+  {
+    "line": 10,
+    "word": "गम",
+    "confidence": 0.747791,
+    "source": "85"
+  },
+  {
+    "line": 10,
+    "word": "खा",
+    "confidence": 0.918316,
+    "source": "86"
+  },
+  {
+    "line": 10,
+    "word": "चुका",
+    "confidence": 0.766168,
+    "source": "87"
+  },
+  {
+    "line": 10,
+    "word": "मेरी",
+    "confidence": 0.911292,
+    "source": "88"
+  },
+  {
+    "line": 10,
+    "word": "जान",
+    "confidence": 0.647339,
+    "source": "89"
+  },
+  {
+    "line": 11,
+    "word": "क्यों",
+    "confidence": 0.991813,
+    "source": "90"
+  },
+  {
+    "line": 11,
+    "word": "यूं",
+    "confidence": 0.998841,
+    "source": "91"
+  },
+  {
+    "line": 11,
+    "word": "रहते",
+    "confidence": 0.993101,
+    "source": "92"
+  },
+  {
+    "line": 11,
+    "word": "रहते",
+    "confidence": 0.975247,
+    "source": "93"
+  },
+  {
+    "line": 11,
+    "word": "दिखे",
+    "confidence": 0.950282,
+    "source": "94"
+  },
+  {
+    "line": 11,
+    "word": "ना",
+    "confidence": 0.658561,
+    "source": "95"
+  },
+  {
+    "line": 11,
+    "word": "कोई",
+    "confidence": 0.985654,
+    "source": "96"
+  },
+  {
+    "line": 11,
+    "word": "दिशा",
+    "confidence": 0.917814,
+    "source": "97"
+  },
+  {
+    "line": 11,
+    "word": "क्यों",
+    "confidence": 0.541046,
+    "source": "98"
+  },
+  {
+    "line": 12,
+    "word": "यूं",
+    "confidence": 0.99798,
+    "source": "99"
+  },
+  {
+    "line": 12,
+    "word": "सहते",
+    "confidence": 0.996883,
+    "source": "100"
+  },
+  {
+    "line": 12,
+    "word": "सहते",
+    "confidence": 0.997025,
+    "source": "101"
+  },
+  {
+    "line": 12,
+    "word": "दिल",
+    "confidence": 0.993405,
+    "source": "102"
+  },
+  {
+    "line": 12,
+    "word": "को",
+    "confidence": 0.998704,
+    "source": "103"
+  },
+  {
+    "line": 12,
+    "word": "गम",
+    "confidence": 0.99787,
+    "source": "104"
+  },
+  {
+    "line": 12,
+    "word": "खा",
+    "confidence": 0.992227,
+    "source": "105"
+  },
+  {
+    "line": 12,
+    "word": "चुका",
+    "confidence": 0.985535,
+    "source": "106"
+  },
+  {
+    "line": 12,
+    "word": "मेरी",
+    "confidence": 0.994121,
+    "source": "107"
+  },
+  {
+    "line": 12,
+    "word": "जान",
+    "confidence": 0.987569,
+    "source": "108"
+  },
+  {
+    "line": 12,
+    "word": "क्यों",
+    "confidence": 0.984057,
+    "source": "109"
+  },
+  {
+    "line": 13,
+    "word": "यूं",
+    "confidence": 0.997143,
+    "source": "110"
+  },
+  {
+    "line": 13,
+    "word": "रहते",
+    "confidence": 0.993365,
+    "source": "111"
+  },
+  {
+    "line": 13,
+    "word": "रहते",
+    "confidence": 0.995899,
+    "source": "112"
+  },
+  {
+    "line": 13,
+    "word": "दिखे",
+    "confidence": 0.993968,
+    "source": "113"
+  },
+  {
+    "line": 13,
+    "word": "ना",
+    "confidence": 0.962722,
+    "source": "114"
+  },
+  {
+    "line": 13,
+    "word": "कोई",
+    "confidence": 0.981852,
+    "source": "115"
+  },
+  {
+    "line": 13,
+    "word": "दिशा",
+    "confidence": 0.995133,
+    "source": "116"
+  },
+  {
+    "line": 14,
+    "word": "जो",
+    "confidence": 0.973422,
+    "source": "117"
+  },
+  {
+    "line": 14,
+    "word": "तू",
+    "confidence": 0.492571,
+    "source": "118"
+  },
+  {
+    "line": 14,
+    "word": "नहीं",
+    "confidence": 0.925073,
+    "source": "119"
+  },
+  {
+    "line": 14,
+    "word": "तो",
+    "confidence": 0.996533,
+    "source": "120"
+  },
+  {
+    "line": 14,
+    "word": "ऐसा",
+    "confidence": 0.95847,
+    "source": "121"
+  },
+  {
+    "line": 14,
+    "word": "मैं",
+    "confidence": 0.911091,
+    "source": "122"
+  },
+  {
+    "line": 14,
+    "word": "चेहरा",
+    "confidence": 0.677577,
+    "source": "123"
+  },
+  {
+    "line": 14,
+    "word": "के",
+    "confidence": 0.915894,
+    "source": "124"
+  },
+  {
+    "line": 14,
+    "word": "जिसकी",
+    "confidence": 0.905314,
+    "source": "125"
+  },
+  {
+    "line": 14,
+    "word": "खूबसूरती",
+    "confidence": 0.49182,
+    "source": "126+127"
+  },
+  {
+    "line": 14,
+    "word": "मांद",
+    "confidence": 0.757944,
+    "source": "128"
+  },
+  {
+    "line": 14,
+    "word": "पड़ी",
+    "confidence": 0.900376,
+    "source": "129"
+  },
+  {
+    "line": 14,
+    "word": "हो",
+    "confidence": 0.921645,
+    "source": "130"
+  },
+  {
+    "line": 15,
+    "word": "ऐसा",
+    "confidence": 0.981938,
+    "source": "131"
+  },
+  {
+    "line": 15,
+    "word": "मैं",
+    "confidence": 0.993676,
+    "source": "132"
+  },
+  {
+    "line": 15,
+    "word": "दरिया",
+    "confidence": 0.742606,
+    "source": "133"
+  },
+  {
+    "line": 15,
+    "word": "जो",
+    "confidence": 0.930313,
+    "source": "134"
+  },
+  {
+    "line": 15,
+    "word": "बहना",
+    "confidence": 0.690734,
+    "source": "135"
+  },
+  {
+    "line": 15,
+    "word": "ना",
+    "confidence": 0.875329,
+    "source": "136"
+  },
+  {
+    "line": 15,
+    "word": "चाहे",
+    "confidence": 0.868613,
+    "source": "137"
+  },
+  {
+    "line": 16,
+    "word": "जो",
+    "confidence": 0.795975,
+    "source": "138"
+  },
+  {
+    "line": 16,
+    "word": "तू",
+    "confidence": 0.997153,
+    "source": "139"
+  },
+  {
+    "line": 16,
+    "word": "नहीं",
+    "confidence": 0.994277,
+    "source": "140"
+  },
+  {
+    "line": 16,
+    "word": "तो",
+    "confidence": 0.998883,
+    "source": "141"
+  },
+  {
+    "line": 16,
+    "word": "ऐसा",
+    "confidence": 0.994535,
+    "source": "142"
+  },
+  {
+    "line": 16,
+    "word": "मैं",
+    "confidence": 0.998262,
+    "source": "143"
+  },
+  {
+    "line": 16,
+    "word": "चेहरा",
+    "confidence": 0.99455,
+    "source": "144"
+  },
+  {
+    "line": 16,
+    "word": "के",
+    "confidence": 0.997484,
+    "source": "145"
+  },
+  {
+    "line": 16,
+    "word": "जिसकी",
+    "confidence": 0.998719,
+    "source": "146"
+  },
+  {
+    "line": 16,
+    "word": "खूबसूरती",
+    "confidence": 0.937628,
+    "source": "147+148"
+  },
+  {
+    "line": 16,
+    "word": "मांद",
+    "confidence": 0.998555,
+    "source": "149"
+  },
+  {
+    "line": 16,
+    "word": "पड़ी",
+    "confidence": 0.998016,
+    "source": "150"
+  },
+  {
+    "line": 16,
+    "word": "हो",
+    "confidence": 0.992538,
+    "source": "151"
+  },
+  {
+    "line": 17,
+    "word": "ऐसा",
+    "confidence": 0.857654,
+    "source": "153"
+  },
+  {
+    "line": 17,
+    "word": "मैं",
+    "confidence": 0.993504,
+    "source": "154"
+  },
+  {
+    "line": 17,
+    "word": "दरिया",
+    "confidence": 0.966947,
+    "source": "155"
+  },
+  {
+    "line": 17,
+    "word": "जो",
+    "confidence": 0.949803,
+    "source": "156"
+  },
+  {
+    "line": 17,
+    "word": "बहना",
+    "confidence": 0.979735,
+    "source": "157"
+  },
+  {
+    "line": 17,
+    "word": "ना",
+    "confidence": 0.945164,
+    "source": "158"
+  },
+  {
+    "line": 17,
+    "word": "चाहे",
+    "confidence": 0.987503,
+    "source": "159"
+  },
+  {
+    "line": 18,
+    "word": "दरिया",
+    "confidence": 0.770225,
+    "source": "160"
+  },
+  {
+    "line": 18,
+    "word": "मेरे",
+    "confidence": 0.902879,
+    "source": "161"
+  },
+  {
+    "line": 18,
+    "word": "दिल",
+    "confidence": 0.990323,
+    "source": "162"
+  },
+  {
+    "line": 18,
+    "word": "का",
+    "confidence": 0.983657,
+    "source": "163"
+  },
+  {
+    "line": 18,
+    "word": "ये",
+    "confidence": 0.941506,
+    "source": "164"
+  },
+  {
+    "line": 18,
+    "word": "बहता",
+    "confidence": 0.922912,
+    "source": "165"
+  },
+  {
+    "line": 18,
+    "word": "ना",
+    "confidence": 0.916117,
+    "source": "166"
+  },
+  {
+    "line": 19,
+    "word": "दुखी",
+    "confidence": 0.576675,
+    "source": "167"
+  },
+  {
+    "line": 19,
+    "word": "दिल",
+    "confidence": 0.910312,
+    "source": "168"
+  },
+  {
+    "line": 19,
+    "word": "की",
+    "confidence": 0.983898,
+    "source": "169"
+  },
+  {
+    "line": 19,
+    "word": "सदा",
+    "confidence": 0.687621,
+    "source": "170"
+  },
+  {
+    "line": 19,
+    "word": "कुछ",
+    "confidence": 0.967016,
+    "source": "171"
+  },
+  {
+    "line": 19,
+    "word": "ये",
+    "confidence": 0.883796,
+    "source": "172"
+  },
+  {
+    "line": 19,
+    "word": "कहता",
+    "confidence": 0.903868,
+    "source": "173"
+  },
+  {
+    "line": 19,
+    "word": "ना",
+    "confidence": 0.947586,
+    "source": "174"
+  },
+  {
+    "line": 19,
+    "word": "इसकी",
+    "confidence": 0.54483,
+    "source": "175"
+  },
+  {
+    "line": 19,
+    "word": "खामोशी",
+    "confidence": 0.63479,
+    "source": "176"
+  },
+  {
+    "line": 19,
+    "word": "की",
+    "confidence": 0.927518,
+    "source": "177"
+  },
+  {
+    "line": 19,
+    "word": "तू",
+    "confidence": 0.545062,
+    "source": "178"
+  },
+  {
+    "line": 19,
+    "word": "वजह",
+    "confidence": 0.848043,
+    "source": "179"
+  },
+  {
+    "line": 19,
+    "word": "है",
+    "confidence": 0.913726,
+    "source": "180"
+  },
+  {
+    "line": 20,
+    "word": "दिल",
+    "confidence": 0.936116,
+    "source": "182"
+  },
+  {
+    "line": 20,
+    "word": "से",
+    "confidence": 0.980471,
+    "source": "183"
+  },
+  {
+    "line": 20,
+    "word": "तंग",
+    "confidence": 0.901573,
+    "source": "184"
+  },
+  {
+    "line": 20,
+    "word": "आ",
+    "confidence": 0.924568,
+    "source": "185"
+  },
+  {
+    "line": 20,
+    "word": "गया",
+    "confidence": 0.508035,
+    "source": "186"
+  },
+  {
+    "line": 20,
+    "word": "यही",
+    "confidence": 0.952706,
+    "source": "187+188"
+  },
+  {
+    "line": 20,
+    "word": "सजा",
+    "confidence": 0.542721,
+    "source": "189"
+  },
+  {
+    "line": 20,
+    "word": "है",
+    "confidence": 0.966379,
+    "source": "190"
+  },
+  {
+    "line": 20,
+    "word": "ना",
+    "confidence": 0.950177,
+    "source": "191"
+  },
+  {
+    "line": 21,
+    "word": "उल्फतों",
+    "confidence": 0.706062,
+    "source": "192"
+  },
+  {
+    "line": 21,
+    "word": "में",
+    "confidence": 0.873842,
+    "source": "193"
+  },
+  {
+    "line": 21,
+    "word": "नहीं",
+    "confidence": 0.840477,
+    "source": "194"
+  },
+  {
+    "line": 21,
+    "word": "कोई",
+    "confidence": 0.811927,
+    "source": "195"
+  },
+  {
+    "line": 21,
+    "word": "पैमाना",
+    "confidence": 0.267564,
+    "source": "196"
+  },
+  {
+    "line": 22,
+    "word": "मेरे",
+    "confidence": 0.917943,
+    "source": "197"
+  },
+  {
+    "line": 22,
+    "word": "अपनों",
+    "confidence": 0.790166,
+    "source": "198"
+  },
+  {
+    "line": 22,
+    "word": "का",
+    "confidence": 0.957491,
+    "source": "199"
+  },
+  {
+    "line": 22,
+    "word": "मुझसे",
+    "confidence": 0.381076,
+    "source": "200"
+  },
+  {
+    "line": 22,
+    "word": "ये",
+    "confidence": 0.96527,
+    "source": "201"
+  },
+  {
+    "line": 22,
+    "word": "कहना",
+    "confidence": 0.955806,
+    "source": "202"
+  },
+  {
+    "line": 22,
+    "word": "था",
+    "confidence": 0.987298,
+    "source": "203"
+  },
+  {
+    "line": 23,
+    "word": "सुरमई",
+    "confidence": 0.58815,
+    "source": "204+205"
+  },
+  {
+    "line": 23,
+    "word": "तेरी",
+    "confidence": 0.741945,
+    "source": "206"
+  },
+  {
+    "line": 23,
+    "word": "आंखों",
+    "confidence": 0.471189,
+    "source": "207"
+  },
+  {
+    "line": 23,
+    "word": "में",
+    "confidence": 0.958786,
+    "source": "208"
+  },
+  {
+    "line": 23,
+    "word": "बह",
+    "confidence": 0.875217,
+    "source": "209"
+  },
+  {
+    "line": 23,
+    "word": "जाना",
+    "confidence": 0.702896,
+    "source": "210"
+  },
+  {
+    "line": 24,
+    "word": "क्या",
+    "confidence": 0.777729,
+    "source": "211"
+  },
+  {
+    "line": 24,
+    "word": "पता",
+    "confidence": 0.913969,
+    "source": "212"
+  },
+  {
+    "line": 24,
+    "word": "तेरे",
+    "confidence": 0.866235,
+    "source": "213"
+  },
+  {
+    "line": 24,
+    "word": "गम",
+    "confidence": 0.464649,
+    "source": "214"
+  },
+  {
+    "line": 24,
+    "word": "में",
+    "confidence": 0.733404,
+    "source": "215"
+  },
+  {
+    "line": 24,
+    "word": "ही",
+    "confidence": 0.867399,
+    "source": "216"
+  },
+  {
+    "line": 24,
+    "word": "रहना",
+    "confidence": 0.922722,
+    "source": "217"
+  },
+  {
+    "line": 24,
+    "word": "था",
+    "confidence": 0.975331,
+    "source": "218"
+  },
+  {
+    "line": 25,
+    "word": "क्या",
+    "confidence": 0.530611,
+    "source": "219"
+  },
+  {
+    "line": 25,
+    "word": "पता",
+    "confidence": 0.970586,
+    "source": "220"
+  },
+  {
+    "line": 25,
+    "word": "तेरे",
+    "confidence": 0.943124,
+    "source": "221"
+  },
+  {
+    "line": 25,
+    "word": "गम",
+    "confidence": 0.952187,
+    "source": "222"
+  },
+  {
+    "line": 25,
+    "word": "में",
+    "confidence": 0.997271,
+    "source": "223"
+  },
+  {
+    "line": 25,
+    "word": "ही",
+    "confidence": 0.997406,
+    "source": "224"
+  },
+  {
+    "line": 25,
+    "word": "रहना",
+    "confidence": 0.928006,
+    "source": "225"
+  },
+  {
+    "line": 25,
+    "word": "था",
+    "confidence": 0.998948,
+    "source": "226"
+  },
+  {
+    "line": 26,
+    "word": "ऐसा",
+    "confidence": 0.284975,
+    "source": "227"
+  },
+  {
+    "line": 26,
+    "word": "मैं",
+    "confidence": 0.727176,
+    "source": "228"
+  },
+  {
+    "line": 26,
+    "word": "दरिया",
+    "confidence": 0.530739,
+    "source": "229"
+  },
+  {
+    "line": 26,
+    "word": "जो",
+    "confidence": 0.826743,
+    "source": "230"
+  },
+  {
+    "line": 26,
+    "word": "बहना",
+    "confidence": 0.866743,
+    "source": "231"
+  },
+  {
+    "line": 26,
+    "word": "ना",
+    "confidence": 0.318685,
+    "source": "232"
+  },
+  {
+    "line": 26,
+    "word": "चाहे",
+    "confidence": 0.826628,
+    "source": "233"
+  }
+]

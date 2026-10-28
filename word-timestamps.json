@@ -1,0 +1,1147 @@
+[
+  {
+    "word": "Mile",
+    "start": 0.14,
+    "end": 7.04
+  },
+  {
+    "word": "to",
+    "start": 7.04,
+    "end": 10.57
+  },
+  {
+    "word": "tu",
+    "start": 10.57,
+    "end": 15.88
+  },
+  {
+    "word": "kabhi",
+    "start": 15.89,
+    "end": 17.57
+  },
+  {
+    "word": "nahi",
+    "start": 17.57,
+    "end": 19.64
+  },
+  {
+    "word": "meri",
+    "start": 20.0,
+    "end": 20.62
+  },
+  {
+    "word": "hasrat",
+    "start": 20.62,
+    "end": 21.38
+  },
+  {
+    "word": "kyun",
+    "start": 21.38,
+    "end": 22.33
+  },
+  {
+    "word": "bhadka",
+    "start": 22.33,
+    "end": 23.46
+  },
+  {
+    "word": "bewaja",
+    "start": 23.46,
+    "end": 24.8
+  },
+  {
+    "word": "ke",
+    "start": 24.94,
+    "end": 26.02
+  },
+  {
+    "word": "tum",
+    "start": 26.02,
+    "end": 27.83
+  },
+  {
+    "word": "bina",
+    "start": 27.83,
+    "end": 30.3
+  },
+  {
+    "word": "jiye",
+    "start": 30.3,
+    "end": 31.77
+  },
+  {
+    "word": "agar",
+    "start": 31.77,
+    "end": 33.3
+  },
+  {
+    "word": "hua",
+    "start": 33.3,
+    "end": 34.48
+  },
+  {
+    "word": "kaise",
+    "start": 34.48,
+    "end": 35.18
+  },
+  {
+    "word": "na",
+    "start": 35.18,
+    "end": 35.76
+  },
+  {
+    "word": "ye",
+    "start": 35.76,
+    "end": 36.08
+  },
+  {
+    "word": "jeena",
+    "start": 36.08,
+    "end": 37.08
+  },
+  {
+    "word": "raaga",
+    "start": 37.08,
+    "end": 38.42
+  },
+  {
+    "word": "dariya",
+    "start": 38.56,
+    "end": 41.42
+  },
+  {
+    "word": "mere",
+    "start": 41.42,
+    "end": 43.82
+  },
+  {
+    "word": "dil",
+    "start": 43.82,
+    "end": 45.61
+  },
+  {
+    "word": "ka",
+    "start": 45.62,
+    "end": 46.82
+  },
+  {
+    "word": "yeh",
+    "start": 46.82,
+    "end": 48.02
+  },
+  {
+    "word": "behta",
+    "start": 48.02,
+    "end": 50.41
+  },
+  {
+    "word": "na",
+    "start": 50.41,
+    "end": 51.7
+  },
+  {
+    "word": "dukhi",
+    "start": 51.8,
+    "end": 52.24
+  },
+  {
+    "word": "dil",
+    "start": 52.24,
+    "end": 52.66
+  },
+  {
+    "word": "ki",
+    "start": 52.66,
+    "end": 52.95
+  },
+  {
+    "word": "sada",
+    "start": 52.95,
+    "end": 53.37
+  },
+  {
+    "word": "kuch",
+    "start": 53.37,
+    "end": 53.78
+  },
+  {
+    "word": "ye",
+    "start": 53.78,
+    "end": 54.06
+  },
+  {
+    "word": "kehta",
+    "start": 54.06,
+    "end": 54.63
+  },
+  {
+    "word": "na",
+    "start": 54.63,
+    "end": 55.14
+  },
+  {
+    "word": "iski",
+    "start": 55.25,
+    "end": 55.78
+  },
+  {
+    "word": "khamoshi",
+    "start": 55.78,
+    "end": 56.73
+  },
+  {
+    "word": "ki",
+    "start": 56.73,
+    "end": 57.05
+  },
+  {
+    "word": "tu",
+    "start": 57.05,
+    "end": 57.36
+  },
+  {
+    "word": "wajah",
+    "start": 57.36,
+    "end": 57.82
+  },
+  {
+    "word": "hai",
+    "start": 57.82,
+    "end": 58.14
+  },
+  {
+    "word": "na",
+    "start": 58.14,
+    "end": 58.6
+  },
+  {
+    "word": "dil",
+    "start": 58.7,
+    "end": 59.02
+  },
+  {
+    "word": "se",
+    "start": 59.02,
+    "end": 59.3
+  },
+  {
+    "word": "tang",
+    "start": 59.3,
+    "end": 59.71
+  },
+  {
+    "word": "aa",
+    "start": 59.71,
+    "end": 59.85
+  },
+  {
+    "word": "gaya",
+    "start": 59.85,
+    "end": 60.27
+  },
+  {
+    "word": "yahi",
+    "start": 60.27,
+    "end": 60.83
+  },
+  {
+    "word": "saza",
+    "start": 60.83,
+    "end": 61.24
+  },
+  {
+    "word": "hai",
+    "start": 61.24,
+    "end": 61.52
+  },
+  {
+    "word": "na",
+    "start": 61.52,
+    "end": 62.04
+  },
+  {
+    "word": "ulfaton",
+    "start": 62.13,
+    "end": 63.0
+  },
+  {
+    "word": "mein",
+    "start": 63.0,
+    "end": 63.42
+  },
+  {
+    "word": "nahi",
+    "start": 63.42,
+    "end": 63.97
+  },
+  {
+    "word": "koi",
+    "start": 63.97,
+    "end": 64.38
+  },
+  {
+    "word": "paimana",
+    "start": 64.38,
+    "end": 65.42
+  },
+  {
+    "word": "mere",
+    "start": 65.55,
+    "end": 65.94
+  },
+  {
+    "word": "apnon",
+    "start": 65.94,
+    "end": 66.59
+  },
+  {
+    "word": "ka",
+    "start": 66.59,
+    "end": 66.85
+  },
+  {
+    "word": "mujhse",
+    "start": 66.85,
+    "end": 67.63
+  },
+  {
+    "word": "ye",
+    "start": 67.63,
+    "end": 67.89
+  },
+  {
+    "word": "kehna",
+    "start": 67.89,
+    "end": 68.4
+  },
+  {
+    "word": "tha",
+    "start": 68.4,
+    "end": 68.86
+  },
+  {
+    "word": "surmai",
+    "start": 69.0,
+    "end": 69.68
+  },
+  {
+    "word": "teri",
+    "start": 69.69,
+    "end": 70.25
+  },
+  {
+    "word": "aankhon",
+    "start": 70.25,
+    "end": 70.79
+  },
+  {
+    "word": "mein",
+    "start": 70.79,
+    "end": 71.21
+  },
+  {
+    "word": "beh",
+    "start": 71.21,
+    "end": 71.49
+  },
+  {
+    "word": "jaana",
+    "start": 71.49,
+    "end": 72.3
+  },
+  {
+    "word": "kya",
+    "start": 72.43,
+    "end": 72.82
+  },
+  {
+    "word": "pata",
+    "start": 72.82,
+    "end": 73.34
+  },
+  {
+    "word": "tere",
+    "start": 73.34,
+    "end": 73.86
+  },
+  {
+    "word": "gham",
+    "start": 73.86,
+    "end": 74.12
+  },
+  {
+    "word": "mein",
+    "start": 74.12,
+    "end": 74.51
+  },
+  {
+    "word": "hi",
+    "start": 74.51,
+    "end": 74.77
+  },
+  {
+    "word": "rehna",
+    "start": 74.77,
+    "end": 75.28
+  },
+  {
+    "word": "tha",
+    "start": 75.28,
+    "end": 75.74
+  },
+  {
+    "word": "rehna",
+    "start": 75.74,
+    "end": 75.8
+  },
+  {
+    "word": "tha",
+    "start": 75.8,
+    "end": 75.86
+  },
+  {
+    "word": "kyun",
+    "start": 75.88,
+    "end": 79.44
+  },
+  {
+    "word": "yun",
+    "start": 79.44,
+    "end": 80.9
+  },
+  {
+    "word": "sahte",
+    "start": 80.9,
+    "end": 84.6
+  },
+  {
+    "word": "sahte",
+    "start": 84.6,
+    "end": 88.38
+  },
+  {
+    "word": "dil",
+    "start": 88.38,
+    "end": 88.83
+  },
+  {
+    "word": "ko",
+    "start": 88.83,
+    "end": 89.13
+  },
+  {
+    "word": "gham",
+    "start": 89.13,
+    "end": 89.42
+  },
+  {
+    "word": "kha",
+    "start": 89.43,
+    "end": 89.73
+  },
+  {
+    "word": "chuka",
+    "start": 89.73,
+    "end": 90.38
+  },
+  {
+    "word": "meri",
+    "start": 90.38,
+    "end": 90.98
+  },
+  {
+    "word": "jaan",
+    "start": 90.98,
+    "end": 91.84
+  },
+  {
+    "word": "kyun",
+    "start": 92.0,
+    "end": 92.86
+  },
+  {
+    "word": "yun",
+    "start": 92.86,
+    "end": 93.24
+  },
+  {
+    "word": "rehte",
+    "start": 93.24,
+    "end": 94.03
+  },
+  {
+    "word": "rehte",
+    "start": 94.03,
+    "end": 94.82
+  },
+  {
+    "word": "dikhe",
+    "start": 94.82,
+    "end": 95.6
+  },
+  {
+    "word": "na",
+    "start": 95.6,
+    "end": 95.99
+  },
+  {
+    "word": "koi",
+    "start": 95.99,
+    "end": 96.58
+  },
+  {
+    "word": "disha",
+    "start": 96.58,
+    "end": 97.54
+  },
+  {
+    "word": "kyun",
+    "start": 97.68,
+    "end": 98.59
+  },
+  {
+    "word": "yun",
+    "start": 98.59,
+    "end": 99.01
+  },
+  {
+    "word": "sahte",
+    "start": 99.01,
+    "end": 100.06
+  },
+  {
+    "word": "sahte",
+    "start": 100.06,
+    "end": 101.1
+  },
+  {
+    "word": "dil",
+    "start": 101.11,
+    "end": 101.74
+  },
+  {
+    "word": "ko",
+    "start": 101.74,
+    "end": 102.16
+  },
+  {
+    "word": "gham",
+    "start": 102.16,
+    "end": 102.58
+  },
+  {
+    "word": "kha",
+    "start": 102.58,
+    "end": 103.0
+  },
+  {
+    "word": "chuka",
+    "start": 103.0,
+    "end": 103.84
+  },
+  {
+    "word": "meri",
+    "start": 103.84,
+    "end": 104.68
+  },
+  {
+    "word": "jaan",
+    "start": 104.68,
+    "end": 105.54
+  },
+  {
+    "word": "kyun",
+    "start": 105.68,
+    "end": 106.5
+  },
+  {
+    "word": "yun",
+    "start": 106.5,
+    "end": 106.88
+  },
+  {
+    "word": "rehte",
+    "start": 106.88,
+    "end": 107.64
+  },
+  {
+    "word": "rehte",
+    "start": 107.64,
+    "end": 108.4
+  },
+  {
+    "word": "dikhe",
+    "start": 108.4,
+    "end": 109.16
+  },
+  {
+    "word": "na",
+    "start": 109.16,
+    "end": 109.54
+  },
+  {
+    "word": "koi",
+    "start": 109.54,
+    "end": 110.12
+  },
+  {
+    "word": "disha",
+    "start": 110.12,
+    "end": 111.14
+  },
+  {
+    "word": "jo",
+    "start": 111.25,
+    "end": 111.47
+  },
+  {
+    "word": "tu",
+    "start": 111.47,
+    "end": 111.79
+  },
+  {
+    "word": "nahi",
+    "start": 111.79,
+    "end": 112.46
+  },
+  {
+    "word": "to",
+    "start": 112.46,
+    "end": 112.79
+  },
+  {
+    "word": "aisa",
+    "start": 112.79,
+    "end": 113.29
+  },
+  {
+    "word": "main",
+    "start": 113.29,
+    "end": 113.8
+  },
+  {
+    "word": "chehra",
+    "start": 113.8,
+    "end": 114.58
+  },
+  {
+    "word": "ke",
+    "start": 114.58,
+    "end": 114.92
+  },
+  {
+    "word": "jiski",
+    "start": 114.92,
+    "end": 115.78
+  },
+  {
+    "word": "khoobsurati",
+    "start": 115.78,
+    "end": 117.3
+  },
+  {
+    "word": "maand",
+    "start": 117.3,
+    "end": 117.94
+  },
+  {
+    "word": "padi",
+    "start": 117.94,
+    "end": 118.7
+  },
+  {
+    "word": "ho",
+    "start": 118.7,
+    "end": 119.08
+  },
+  {
+    "word": "aisa",
+    "start": 119.22,
+    "end": 119.76
+  },
+  {
+    "word": "main",
+    "start": 119.76,
+    "end": 120.45
+  },
+  {
+    "word": "dariya",
+    "start": 120.45,
+    "end": 121.62
+  },
+  {
+    "word": "jo",
+    "start": 121.62,
+    "end": 122.1
+  },
+  {
+    "word": "behna",
+    "start": 122.1,
+    "end": 123.05
+  },
+  {
+    "word": "na",
+    "start": 123.06,
+    "end": 123.54
+  },
+  {
+    "word": "chahe",
+    "start": 123.54,
+    "end": 124.6
+  },
+  {
+    "word": "jo",
+    "start": 124.72,
+    "end": 124.96
+  },
+  {
+    "word": "tu",
+    "start": 124.96,
+    "end": 125.32
+  },
+  {
+    "word": "nahi",
+    "start": 125.32,
+    "end": 126.04
+  },
+  {
+    "word": "to",
+    "start": 126.04,
+    "end": 126.4
+  },
+  {
+    "word": "aisa",
+    "start": 126.4,
+    "end": 126.94
+  },
+  {
+    "word": "main",
+    "start": 126.94,
+    "end": 127.48
+  },
+  {
+    "word": "chehra",
+    "start": 127.48,
+    "end": 128.2
+  },
+  {
+    "word": "ke",
+    "start": 128.2,
+    "end": 128.56
+  },
+  {
+    "word": "jiski",
+    "start": 128.56,
+    "end": 129.5
+  },
+  {
+    "word": "khoobsurati",
+    "start": 129.5,
+    "end": 131.16
+  },
+  {
+    "word": "maand",
+    "start": 131.16,
+    "end": 131.79
+  },
+  {
+    "word": "padi",
+    "start": 131.79,
+    "end": 132.4
+  },
+  {
+    "word": "ho",
+    "start": 132.4,
+    "end": 132.8
+  },
+  {
+    "word": "aisa",
+    "start": 133.29,
+    "end": 134.03
+  },
+  {
+    "word": "main",
+    "start": 134.03,
+    "end": 134.78
+  },
+  {
+    "word": "dariya",
+    "start": 134.78,
+    "end": 136.1
+  },
+  {
+    "word": "jo",
+    "start": 136.1,
+    "end": 136.47
+  },
+  {
+    "word": "behna",
+    "start": 136.47,
+    "end": 137.22
+  },
+  {
+    "word": "na",
+    "start": 137.22,
+    "end": 137.59
+  },
+  {
+    "word": "chahe",
+    "start": 137.59,
+    "end": 138.4
+  },
+  {
+    "word": "dariya",
+    "start": 138.54,
+    "end": 139.65
+  },
+  {
+    "word": "mere",
+    "start": 139.65,
+    "end": 140.65
+  },
+  {
+    "word": "dil",
+    "start": 140.65,
+    "end": 141.4
+  },
+  {
+    "word": "ka",
+    "start": 141.4,
+    "end": 141.9
+  },
+  {
+    "word": "ye",
+    "start": 141.9,
+    "end": 142.4
+  },
+  {
+    "word": "behta",
+    "start": 142.4,
+    "end": 143.4
+  },
+  {
+    "word": "na",
+    "start": 143.4,
+    "end": 144.0
+  },
+  {
+    "word": "dukhi",
+    "start": 144.0,
+    "end": 144.49
+  },
+  {
+    "word": "dil",
+    "start": 144.49,
+    "end": 144.87
+  },
+  {
+    "word": "ki",
+    "start": 144.87,
+    "end": 145.13
+  },
+  {
+    "word": "sada",
+    "start": 145.13,
+    "end": 145.51
+  },
+  {
+    "word": "kuch",
+    "start": 145.51,
+    "end": 146.0
+  },
+  {
+    "word": "ye",
+    "start": 146.0,
+    "end": 146.24
+  },
+  {
+    "word": "kehta",
+    "start": 146.24,
+    "end": 146.72
+  },
+  {
+    "word": "na",
+    "start": 146.72,
+    "end": 147.0
+  },
+  {
+    "word": "iski",
+    "start": 147.0,
+    "end": 148.0
+  },
+  {
+    "word": "khamoshi",
+    "start": 148.0,
+    "end": 148.72
+  },
+  {
+    "word": "ki",
+    "start": 148.72,
+    "end": 148.96
+  },
+  {
+    "word": "tu",
+    "start": 148.96,
+    "end": 149.2
+  },
+  {
+    "word": "wajah",
+    "start": 149.2,
+    "end": 149.62
+  },
+  {
+    "word": "hai",
+    "start": 149.62,
+    "end": 149.84
+  },
+  {
+    "word": "dil",
+    "start": 150.1,
+    "end": 150.42
+  },
+  {
+    "word": "se",
+    "start": 150.42,
+    "end": 150.71
+  },
+  {
+    "word": "tang",
+    "start": 150.71,
+    "end": 151.12
+  },
+  {
+    "word": "aa",
+    "start": 151.12,
+    "end": 151.26
+  },
+  {
+    "word": "gaya",
+    "start": 151.26,
+    "end": 151.68
+  },
+  {
+    "word": "yahi",
+    "start": 151.68,
+    "end": 152.25
+  },
+  {
+    "word": "saza",
+    "start": 152.25,
+    "end": 152.81
+  },
+  {
+    "word": "hai",
+    "start": 152.81,
+    "end": 153.1
+  },
+  {
+    "word": "na",
+    "start": 153.1,
+    "end": 153.6
+  },
+  {
+    "word": "ulfaton",
+    "start": 153.6,
+    "end": 154.56
+  },
+  {
+    "word": "mein",
+    "start": 154.56,
+    "end": 154.98
+  },
+  {
+    "word": "nahi",
+    "start": 154.98,
+    "end": 155.6
+  },
+  {
+    "word": "koi",
+    "start": 155.6,
+    "end": 155.72
+  },
+  {
+    "word": "paimana",
+    "start": 155.72,
+    "end": 156.68
+  },
+  {
+    "word": "mere",
+    "start": 156.68,
+    "end": 157.4
+  },
+  {
+    "word": "apnon",
+    "start": 157.4,
+    "end": 158.3
+  },
+  {
+    "word": "ka",
+    "start": 158.3,
+    "end": 158.66
+  },
+  {
+    "word": "mujhse",
+    "start": 158.66,
+    "end": 159.56
+  },
+  {
+    "word": "ye",
+    "start": 159.56,
+    "end": 159.92
+  },
+  {
+    "word": "kehna",
+    "start": 159.92,
+    "end": 160.64
+  },
+  {
+    "word": "tha",
+    "start": 160.64,
+    "end": 161.2
+  },
+  {
+    "word": "surmai",
+    "start": 161.2,
+    "end": 161.64
+  },
+  {
+    "word": "teri",
+    "start": 161.64,
+    "end": 162.0
+  },
+  {
+    "word": "aankhon",
+    "start": 162.0,
+    "end": 162.74
+  },
+  {
+    "word": "mein",
+    "start": 162.74,
+    "end": 163.2
+  },
+  {
+    "word": "beh",
+    "start": 163.2,
+    "end": 163.4
+  },
+  {
+    "word": "jaana",
+    "start": 163.4,
+    "end": 164.0
+  },
+  {
+    "word": "kya",
+    "start": 164.0,
+    "end": 164.64
+  },
+  {
+    "word": "pata",
+    "start": 164.64,
+    "end": 165.2
+  },
+  {
+    "word": "tere",
+    "start": 165.2,
+    "end": 165.6
+  },
+  {
+    "word": "gham",
+    "start": 165.6,
+    "end": 165.82
+  },
+  {
+    "word": "mein",
+    "start": 165.82,
+    "end": 166.2
+  },
+  {
+    "word": "hi",
+    "start": 166.2,
+    "end": 166.47
+  },
+  {
+    "word": "rehna",
+    "start": 166.47,
+    "end": 167.04
+  },
+  {
+    "word": "tha",
+    "start": 167.04,
+    "end": 167.2
+  },
+  {
+    "word": "kya",
+    "start": 167.34,
+    "end": 168.32
+  },
+  {
+    "word": "pata",
+    "start": 168.32,
+    "end": 169.16
+  },
+  {
+    "word": "tere",
+    "start": 169.16,
+    "end": 170.28
+  },
+  {
+    "word": "gham",
+    "start": 170.28,
+    "end": 170.84
+  },
+  {
+    "word": "mein",
+    "start": 170.84,
+    "end": 171.68
+  },
+  {
+    "word": "hi",
+    "start": 171.68,
+    "end": 172.24
+  },
+  {
+    "word": "rehna",
+    "start": 172.24,
+    "end": 173.36
+  },
+  {
+    "word": "tha",
+    "start": 173.36,
+    "end": 174.08
+  },
+  {
+    "word": "aisa",
+    "start": 174.08,
+    "end": 174.67
+  },
+  {
+    "word": "main",
+    "start": 174.67,
+    "end": 175.27
+  },
+  {
+    "word": "dariya",
+    "start": 175.27,
+    "end": 176.34
+  },
+  {
+    "word": "jo",
+    "start": 176.34,
+    "end": 176.9
+  },
+  {
+    "word": "behna",
+    "start": 176.9,
+    "end": 178.02
+  },
+  {
+    "word": "na",
+    "start": 178.02,
+    "end": 178.58
+  },
+  {
+    "word": "chahe",
+    "start": 178.58,
+    "end": 179.76
+  }
+]
