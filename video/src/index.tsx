@@ -12,7 +12,7 @@ export const RemotionRoot: React.FC = () => (
       fps={HERO_PROOF_TIMING.fps}
       width={1080}
       height={1920}
-      defaultProps={{audioSrc: '/song.mp3'}}
+      defaultProps={{audioSrc: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3'}}
     />
   </>
 );
